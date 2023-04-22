@@ -1,6 +1,6 @@
 # search-everything
 
-Search everything you've done on your PC. Ask interesting questions and get interesting answers.
+Search everything you've ever done on your PC. Ask interesting questions and get interesting answers. [Rewind.ai](https://www.rewind.ai/) style.
 
 Some sample questions you can ask:
  - How can I reorganise my desktop?
